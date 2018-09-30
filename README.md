@@ -1,7 +1,6 @@
 ## For NodeJs study
 
-** not Nodejs only **
-**Learn to test anything with TAP.**
+**not Nodejs only**
 
 
 1. NodeJS
