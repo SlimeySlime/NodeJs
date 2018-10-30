@@ -1,0 +1,16 @@
+{
+  "name": "Frequency Search",
+  "version": "1.0",
+  "description": "I'm Building an Extension!",
+  "manifest_version": 2,
+
+  "browser_action":{
+    "default_icon" : "icon.png", 
+    "default_popup": "popup.html"
+  },
+  
+  "permissions":[
+    "storage","activeTab","tabs", "http://*/*", "https://*/*"
+  ]
+
+}
